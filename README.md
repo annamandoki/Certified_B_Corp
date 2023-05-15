@@ -3,6 +3,7 @@
 ## About the project
 
 The purpose of this project is to conduct Exploratory Data Analysis(EDA) and apply different data analysis techniques on the [Certified B Corps](https://www.bcorporation.net/en-us/certification) dataset, containing information on companies that meet the highest standards of verified social and environmental performance, transparency and accountability.
+
 The [notebook](https://github.com/annamandoki/Certified_B_Corp/blob/main/B_Corp_Project_Anna_M.ipynb) was my final course project for Data Analysis Fundamentals at ZHAW, while the [SQL script](https://github.com/annamandoki/Certified_B_Corp/blob/main/B_Corp_Best_for_the_World_2022_SQL.sql) has been added later as a complementary analysis.
 
 ## Objectives
