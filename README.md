@@ -43,9 +43,9 @@ Analyze a publicly available dataset containing information on certified B corpo
 
 ## Data source
 
-Original notebook: [B Corp Impact Data](https://data.world/blab/b-corp-impact-data) on *data.world* accessed 29 March 2023.
-SQL script: [B Corp Best for the World Lists](https://data.world/blab/b-corp-best-for-the-world-lists) on *data.world* accessed 05 May 2023.
-Second notebook: [B Corp Impact Data](https://data.world/blab/b-corp-impact-data) on *data.world* accessed 5 July 2023.
+- Original notebook: [B Corp Impact Data](https://data.world/blab/b-corp-impact-data) on *data.world* accessed 29 March 2023.
+- SQL script: [B Corp Best for the World Lists](https://data.world/blab/b-corp-best-for-the-world-lists) on *data.world* accessed 05 May 2023.
+- Second notebook: [B Corp Impact Data](https://data.world/blab/b-corp-impact-data) on *data.world* accessed 5 July 2023.
 
 ## Related projects
 
