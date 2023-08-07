@@ -4,7 +4,7 @@
 
 The purpose of this project is to conduct Exploratory Data Analysis(EDA) and apply different data analysis techniques on the [Certified B Corps](https://www.bcorporation.net/en-us/certification) dataset, containing information on companies that meet the highest standards of verified social and environmental performance, transparency and accountability.
 
-The [notebook](https://github.com/annamandoki/Certified_B_Corp/blob/main/B_Corp_Project_Anna_M.ipynb) was my final course project for Data Analysis Fundamentals at ZHAW, while the [SQL script](https://github.com/annamandoki/Certified_B_Corp/blob/main/B_Corp_Best_for_the_World_2022_SQL.sql) has been added later as a complementary analysis.
+The [original notebook](https://github.com/annamandoki/Certified_B_Corp/blob/main/B_Corp_Project_Anna_M.ipynb) was my final course project for Data Analysis Fundamentals at ZHAW in April 2023. The [SQL script](https://github.com/annamandoki/Certified_B_Corp/blob/main/B_Corp_Best_for_the_World_2022_SQL.sql) has been added in May as a complementary analysis. I revisited the project in July 2023 in the [second notebook](https://github.com/annamandoki/Certified_B_Corp/blob/main/B_Corp_Project_July2023.ipynb), after the Q2 update of the dataset.
 
 ## Objectives
 
@@ -43,8 +43,9 @@ Analyze a publicly available dataset containing information on certified B corpo
 
 ## Data source
 
-[B Corp Impact Data](https://data.world/blab/b-corp-impact-data) on *data.world* accessed 29 March 2023.
-[B Corp Best for the World Lists](https://data.world/blab/b-corp-best-for-the-world-lists) on *data.world* accessed 05 May 2023.
+Original notebook: [B Corp Impact Data](https://data.world/blab/b-corp-impact-data) on *data.world* accessed 29 March 2023.
+SQL script: [B Corp Best for the World Lists](https://data.world/blab/b-corp-best-for-the-world-lists) on *data.world* accessed 05 May 2023.
+Second notebook: [B Corp Impact Data](https://data.world/blab/b-corp-impact-data) on *data.world* accessed 5 July 2023.
 
 ## Related projects
 
