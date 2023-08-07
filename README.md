@@ -52,5 +52,6 @@ Interactive visualizations in Tableau using the cleaned and transformed dataset:
 
 - [Certified B Corporations by size](https://public.tableau.com/app/profile/anna8476/viz/CertifiedBCorporations/Dashboard1)
 - [Certified B Corporations accross industries](https://public.tableau.com/app/profile/anna8476/viz/CertifiedBCorporationsDrillDown/Dashboard1)
+- [Certified B Corp Explosion](https://public.tableau.com/app/profile/anna8476/viz/BCorpExplosion/Dashboard1)
 
-Created by Anna Mándoki, 5<sup>th</sup> April 2023, last updated 15<sup>th</sup> May 2023
+Created by Anna Mándoki, 5<sup>th</sup> April 2023, last updated 7<sup>th</sup> August 2023
