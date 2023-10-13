@@ -51,8 +51,8 @@ Analyze a publicly available dataset containing information on certified B corpo
 
 Interactive visualizations in Tableau using the cleaned and transformed dataset:
 
-- [Certified B Corporations by size](https://public.tableau.com/app/profile/anna8476/viz/CertifiedBCorporations/Dashboard1)
-- [Certified B Corporations accross industries](https://public.tableau.com/app/profile/anna8476/viz/CertifiedBCorporationsDrillDown/Dashboard1)
-- [Certified B Corp Explosion](https://public.tableau.com/app/profile/anna8476/viz/BCorpExplosion/Dashboard1)
+- [Certified B Corporations Explorer](https://public.tableau.com/app/profile/anna.mandoki/viz/CertifiedBCorporations/Dashboard2)
+- [Certified B Corporations Industry Drill Down](https://public.tableau.com/app/profile/anna.mandoki/viz/CertifiedBCorporationsDrillDown/Dashboard1)
+- [Certified B Corp Network](https://public.tableau.com/app/profile/anna.mandoki/viz/BCorpNetwork/BCorpNetworkGraph)
 
 Created by Anna Mándoki, 5<sup>th</sup> April 2023, last updated 7<sup>th</sup> August 2023
